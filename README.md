@@ -6,3 +6,4 @@
 ![C++](https://cdn.iconscout.com/icon/free/png-256/free-cplusplus-logo-icon-svg-download-png-3029933.png)
 ![HTML5](https://www.w3.org/html/logo/downloads/HTML5_Logo_256.png)
 ![JavaScript](https://cdn.iconscout.com/icon/free/png-256/free-javascript-logo-icon-svg-download-png-2284965.png?f=webp)
+![CSS](https://www.shareicon.net/data/256x256/2015/09/01/94046_css3_512x512.png)
