@@ -1,9 +1,28 @@
-## Hi there 👋
+# Olá, eu sou [Seu Nome]! 👋
 
-### Skills
-![Java](https://cdn.iconscout.com/icon/free/png-256/free-java-logo-icon-svg-download-png-1720088.png)
-![Python](https://cdn.iconscout.com/icon/free/png-256/free-python-logo-icon-svg-download-png-3030224.png?f=webp)
-![C++](https://cdn.iconscout.com/icon/free/png-256/free-cplusplus-logo-icon-svg-download-png-3029933.png)
-![HTML5](https://www.w3.org/html/logo/downloads/HTML5_Logo_256.png)
-![JavaScript](https://cdn.iconscout.com/icon/free/png-256/free-javascript-logo-icon-svg-download-png-2284965.png?f=webp)
-![CSS](https://www.shareicon.net/data/256x256/2015/09/01/94046_css3_512x512.png)
+## 🚀 Minhas Tecnologias
+
+### Desenvolvimento Web
+<table>
+  <tr>
+    <td align="center"><img src="./images/html_css_banner.png" alt="HTML/CSS" width="300px"/></td>
+    <td align="center"><img src="./images/js_banner.png" alt="JavaScript" width="300px"/></td>
+    <td align="center"><img src="./images/ts_banner.png" alt="TypeScript" width="300px"/></td>
+  </tr>
+</table>
+
+### Back-end & Nuvem
+<table>
+  <tr>
+    <td align="center"><img src="./images/python_banner.png" alt="Python" width="300px"/></td>
+    <td align="center"><img src="./images/aws_banner.png" alt="AWS" width="300px"/></td>
+  </tr>
+</table>
+
+### Programação de Sistemas
+<table>
+  <tr>
+    <td align="center"><img src="./images/c_banner.png" alt="C" width="300px"/></td>
+    <td align="center"><img src="./images/cpp_banner.png" alt="C++" width="300px"/></td>
+  </tr>
+</table>
