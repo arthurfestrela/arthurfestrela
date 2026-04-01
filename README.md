@@ -5,7 +5,7 @@
 ### Desenvolvimento Web
 <table>
   <tr>
-    <img width="250" height="250" alt="image" src="https://pt.wikipedia.org/wiki/Ficheiro:Typescript_logo_2020.svg" />
+    <img src="https://pt.wikipedia.org/wiki/Ficheiro:Typescript_logo_2020.svg" />
 
   </tr>
 </table>
