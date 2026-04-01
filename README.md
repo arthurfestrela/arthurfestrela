@@ -67,16 +67,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurfestrela&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurfestrela&layout=compact&langs_count=8&theme=tokyonight&border_radius=12"/>
-
-</div>
-
-<div align="center">
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=SEU_USERNAME&theme=tokyonight&border_radius=12&date_format=j%20M%5B%20Y%5D)
 
