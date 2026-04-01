@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey,%20I'm%20[Seu%20Nome]%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!&descAlignY=55&descAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey,%20I'm%20[Arthur Estrela]%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!&descAlignY=55&descAlign=50" />
 
 <br/>
 
